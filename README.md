@@ -1,8 +1,10 @@
 # react-native-baidu-map [![npm version](https://img.shields.io/npm/v/react-native-baidu-map.svg?style=flat)](https://www.npmjs.com/package/react-native-baidu-map)
 
-Baidu Map SDK modules and view for React Native(Android & IOS), support react native 0.40+
+### fork自lovebing的react-native-baidu-map，更新同步，支持RN 47+，Reat15.5
 
-百度地图 React Native 模块，支持 react native 0.40+
+Baidu Map SDK modules and view for React Native(Android & IOS), support react native 0.47+
+
+百度地图 React Native 模块，支持 react native 0.47+
 
 ![Android](https://raw.githubusercontent.com/lovebing/react-native-baidu-map/master/images/android.jpg)
 ![IOS](https://raw.githubusercontent.com/lovebing/react-native-baidu-map/master/images/ios.jpg)
